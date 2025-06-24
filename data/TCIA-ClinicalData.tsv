@@ -1,0 +1,378 @@
+barcode	clinical_data_date_of_initial_pathologic_diagnosis	clinical_data_days_to_death	clinical_data_days_to_last_followup	clinical_data_days_to_last_known_alive	clinical_data_ethnicity	clinical_data_gender	clinical_data_pathologic_stage	clinical_data_pathology_M_stage	clinical_data_pathology_N_stage	clinical_data_pathology_T_stage	clinical_data_race	clinical_data_radiation_therapy	clinical_data_residual_tumor	clinical_data_tumor_tissue_site	clinical_data_vital_status	clinical_data_years_to_birth	datasource	disease	expData	ips_ctla4_neg_pd1_neg	ips_ctla4_neg_pd1_pos	ips_ctla4_pos_pd1_neg	ips_ctla4_pos_pd1_pos	patient_uuid
+TCGA-RC-A7SH	2012	NA	468	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	42	TCGA	LIHC	1	8	7	8	6	32a98b3d-4cbd-4dcc-ac71-428fafc5e1c3
+TCGA-DD-AADN	2012	NA	898	NA	not hispanic or latino	male	stage i	mx	nx	t1	asian	no	r0	liver	0	59	TCGA	LIHC	1	9	8	9	8	32e39c1d-b8e8-4efe-b451-8efb112d3518
+TCGA-ED-A66Y	2013	296	NA	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	asian	no	r0	liver	1	51	TCGA	LIHC	1	5	5	5	4	34303cdd-c31c-4b95-9965-2a5513dc322d
+TCGA-DD-AACO	2009	NA	1876	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	40	TCGA	LIHC	1	8	6	8	6	34413807-07be-4204-b095-5e1dd1ed87dc
+TCGA-DD-AAEI	2010	NA	1531	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	72	TCGA	LIHC	1	9	8	9	7	34416be6-b6d6-4029-b899-9ba685e39590
+TCGA-ZP-A9CY	2011	NA	782	NA	not hispanic or latino	female	NA	mx	nx	t1	white	no	r0	liver	0	66	TCGA	LIHC	1	9	7	8	6	34fd27ce-930a-4f29-8a6e-dae4949d92eb
+TCGA-2Y-A9H8	2011	633	NA	NA	not hispanic or latino	female	NA	mx	nx	t1	white	no	r0	liver	1	85	TCGA	LIHC	1	9	7	8	7	3528dd91-1a6d-4d41-a3ee-829c857cc904
+TCGA-DD-A3A2	1998	2131	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	1	76	TCGA	LIHC	1	8	6	7	5	357c1c08-f368-4cae-8f20-9be241b30479
+TCGA-CC-A5UD	2012	304	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	45	TCGA	LIHC	1	9	7	9	7	3837c8ac-6c9e-499b-a4e7-d42c870bcb49
+TCGA-ZP-A9D0	2011	NA	1091	NA	not hispanic or latino	female	NA	mx	nx	t1	black or african american	no	r0	liver	0	67	TCGA	LIHC	1	8	6	7	5	396ef7c2-343e-4d5c-9b20-adc0a52c1978
+TCGA-BC-A10W	2002	91	NA	NA	not hispanic or latino	male	NA	mx	nx	t4	asian	no	r1	liver	1	50	TCGA	LIHC	1	8	6	8	6	39baf24a-4032-4c23-b3fe-2c50df1881f6
+TCGA-WX-AA47	2012	556	NA	NA	not hispanic or latino	female	stage iiia	mx	nx	t3a	white	yes	r0	liver	1	33	TCGA	LIHC	1	8	6	7	5	39e147c9-2acb-4ba8-a991-e43e1719b2d8
+TCGA-G3-A3CK	2011	NA	585	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	61	TCGA	LIHC	1	8	7	8	7	39eb1db0-2722-4af4-8254-d0e10256c64d
+TCGA-G3-A3CH	2010	NA	780	NA	not hispanic or latino	male	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	53	TCGA	LIHC	1	9	8	8	7	3a2d7482-c246-411e-841f-71d96e353328
+TCGA-DD-A1EI	2008	NA	183	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	NA	r0	liver	0	46	TCGA	LIHC	1	8	7	8	6	3acf7438-fd65-442c-8a30-68b6714537f3
+TCGA-DD-AAE1	2013	NA	552	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	52	TCGA	LIHC	1	9	7	8	7	3bbff405-dae4-4dc9-985a-33e7ac9cb2dd
+TCGA-DD-AAEE	2012	NA	810	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	55	TCGA	LIHC	1	9	8	9	7	3c51fee0-da54-40e9-a954-dfe30f6f075c
+TCGA-DD-AAE3	2013	NA	566	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	50	TCGA	LIHC	1	8	7	8	6	3c969bdf-cae8-44f5-839f-5abd4cba0ec8
+TCGA-G3-A7M7	2013	NA	361	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	r0	liver	0	65	TCGA	LIHC	1	8	6	8	6	3d048a45-3d5d-4563-acc8-3c662861f18a
+TCGA-DD-AACL	2008	107	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	1	66	TCGA	LIHC	1	7	6	7	6	3da3cfec-5464-4dd8-9757-a0cdfe3536f8
+TCGA-BC-A10X	2002	770	NA	NA	not hispanic or latino	female	stage iiia	mx	n0	t3a	white	no	r0	liver	1	52	TCGA	LIHC	1	8	7	8	6	3dc48ea9-a3c6-437f-af5a-88feb300cc5f
+TCGA-FV-A3R3	2012	366	NA	NA	not hispanic or latino	female	stage i	mx	nx	t1	white	no	r0	liver	1	38	TCGA	LIHC	1	9	7	8	7	3dd7c93d-8194-44ee-8014-10dd81ef6441
+TCGA-2Y-A9GW	2007	1271	NA	NA	not hispanic or latino	male	stage i	mx	n0	t1	white	no	r0	liver	1	64	TCGA	LIHC	1	9	8	9	7	3e1920b3-3bd4-4506-a0cf-567257154bcf
+TCGA-DD-AACT	2010	NA	1562	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	69	TCGA	LIHC	1	10	9	10	9	3ea084c5-3783-4fde-b341-5914d2edb977
+TCGA-ZS-A9CG	2013	NA	341	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	0	55	TCGA	LIHC	1	8	6	7	6	3f6a6891-c6d5-447b-ad32-325fd46ec32b
+TCGA-DD-A4NH	2011	NA	917	NA	not hispanic or latino	female	stage iiib	m0	n0	t3b	white	no	r0	liver	0	65	TCGA	LIHC	1	8	7	8	6	4012ea90-5768-4acc-af3a-ba954f493db4
+TCGA-DD-AADK	2011	NA	1049	NA	not hispanic or latino	female	stage ii	m0	n0	t2	asian	no	r0	liver	0	68	TCGA	LIHC	1	8	7	8	6	40f30ffb-51de-4786-a88f-16c170aac207
+TCGA-DD-AADC	2011	425	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	1	53	TCGA	LIHC	1	7	6	7	5	4100fd8b-cf37-4e63-a73d-95c9c392d606
+TCGA-DD-AAD6	2011	NA	672	NA	not hispanic or latino	male	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	66	TCGA	LIHC	1	7	5	6	5	418e79d1-51c7-4cef-a1b6-e291fb13c2a5
+TCGA-DD-AACD	2008	381	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	1	48	TCGA	LIHC	1	10	10	10	10	41fb30aa-63b4-4cc6-a275-b77048612fa0
+TCGA-NI-A8LF	2012	NA	799	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	r0	liver	0	74	TCGA	LIHC	1	8	6	7	6	420dc176-e9a8-484b-bfa3-1b84e039c26b
+TCGA-ZP-A9D4	2012	NA	395	NA	not hispanic or latino	female	NA	mx	nx	t1	white	no	r0	liver	0	64	TCGA	LIHC	1	8	6	7	6	4244912d-8527-410c-a084-a56c55eb1f82
+TCGA-DD-AAE7	2012	NA	644	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	72	TCGA	LIHC	1	9	7	8	7	427fdbf8-1603-466f-a5c6-963bb2ec3dac
+TCGA-DD-A39Z	1996	601	NA	NA	NA	female	stage ii	m0	nx	t2	NA	NA	r0	liver	1	43	TCGA	LIHC	1	9	7	8	7	42cb60f0-1a9e-4f59-8e2e-50c25e85cb98
+TCGA-DD-AACX	2010	NA	170	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	66	TCGA	LIHC	1	10	8	9	8	431a72e1-ea03-4e40-89c4-2f02d454c897
+TCGA-EP-A2KA	2011	627	NA	NA	not hispanic or latino	female	stage iiia	mx	nx	t3a	white	no	r0	liver	1	52	TCGA	LIHC	1	10	10	10	10	440375d7-cdcd-418a-8992-0a8ca42d290d
+TCGA-ZP-A9D1	2012	NA	21	NA	not hispanic or latino	female	NA	mx	nx	t1	white	no	r0	liver	0	56	TCGA	LIHC	1	10	8	9	7	447ac9e3-0533-461a-bc92-906a7b2180c3
+TCGA-DD-A3A9	2001	931	NA	NA	not hispanic or latino	female	stage ivb	m1	n0	t4	white	NA	r0	liver	1	64	TCGA	LIHC	1	9	8	9	7	457cca7c-a8b4-414e-a3c0-7fccf0ee2034
+TCGA-DD-A115	2002	2542	NA	NA	NA	male	stage iiia	m0	n0	t3	white	no	r0	liver	1	53	TCGA	LIHC	1	9	7	8	7	45b566d7-f120-471c-a94a-be7936889f2d
+TCGA-GJ-A9DB	2013	67	NA	NA	not hispanic or latino	male	stage i	mx	n0	t1	white	no	r0	liver	1	68	TCGA	LIHC	1	8	6	8	6	45f00f00-d793-4dca-aeb9-7626d4575c90
+TCGA-DD-AADS	2013	NA	474	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	63	TCGA	LIHC	1	10	9	10	9	460a3cbd-c63c-4e6f-b670-2619687ac5a0
+TCGA-ED-A7PX	2013	NA	6	NA	not hispanic or latino	female	stage ii	m0	nx	t2	asian	no	r0	liver	0	48	TCGA	LIHC	1	10	9	9	8	470d52b8-3d74-4789-b714-b9869a96657b
+TCGA-DD-A73G	2005	NA	3478	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	0	73	TCGA	LIHC	1	7	5	6	5	4774367c-5d8f-4b23-934a-e6d33a89dca8
+TCGA-5R-AAAM	2013	46	NA	NA	not hispanic or latino	female	stage ii	m0	n0	t2	white	no	r0	liver	1	65	TCGA	LIHC	1	8	7	8	7	477affb9-7c8b-4895-a4f3-6cc6ef8ec5e4
+TCGA-DD-AADQ	2013	NA	436	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	59	TCGA	LIHC	1	10	10	10	10	485d283a-552c-485a-84fb-3abdb98dc797
+TCGA-DD-A39W	1995	827	NA	NA	not hispanic or latino	female	stage iii	m0	n0	t3	white	NA	r0	liver	1	29	TCGA	LIHC	1	8	6	7	6	48d33449-b969-423a-b4e7-541809109617
+TCGA-WQ-A9G7	2013	NA	30	NA	not hispanic or latino	female	NA	m0	nx	t3a	white	no	r0	liver	0	NA	TCGA	LIHC	1	8	7	7	7	491a3734-dcb8-4779-b098-0b5567f13f87
+TCGA-2Y-A9H0	2004	NA	3675	NA	hispanic or latino	male	stage iiia	m0	n0	t3	white	no	r0	liver	0	49	TCGA	LIHC	1	10	10	10	9	492ff93f-432b-4b73-8706-632fb2c83eb4
+TCGA-DD-AAC8	2008	16	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	1	72	TCGA	LIHC	1	8	7	8	6	496beef9-80d9-4734-a23d-334ae1b6aaab
+TCGA-KR-A7K8	2012	NA	906	NA	NA	male	stage i	m0	n0	t1	NA	no	r0	liver	0	57	TCGA	LIHC	1	9	8	9	8	4b0e544c-4090-4ebb-b3e5-2623aa91356c
+TCGA-BC-A216	2008	NA	1351	NA	NA	female	stage iiia	m0	nx	t3	white	no	r0	liver	0	62	TCGA	LIHC	1	9	8	9	8	4bbdbe77-f3cb-4b64-9826-72debb734784
+TCGA-DD-AADV	2013	NA	574	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	50	TCGA	LIHC	1	9	7	8	6	4c78b999-4797-4e19-8bc5-9ffd01cf768a
+TCGA-DD-AAE9	2012	NA	722	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	69	TCGA	LIHC	1	10	9	10	8	4c960eee-e4b5-499d-a596-238aa78745a4
+TCGA-DD-A39X	1998	1694	NA	NA	not hispanic or latino	female	stage i	m0	nx	t1	white	no	r0	liver	1	78	TCGA	LIHC	1	9	8	9	7	0d0a10b4-7b99-4043-a129-89844f258156
+TCGA-DD-AAD3	2011	NA	1295	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	43	TCGA	LIHC	1	10	8	9	8	0d13229a-304a-48a6-a761-12e68e94a4b4
+TCGA-2Y-A9GZ	2007	848	NA	NA	not hispanic or latino	female	stage ii	mx	nx	t2	white	no	r0	liver	1	82	TCGA	LIHC	1	7	5	6	5	0e8c3831-def9-4efa-9f93-8942072d6a77
+TCGA-CC-5261	2010	97	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	rx	liver	1	44	TCGA	LIHC	1	9	8	8	7	1ad7f17e-b3b8-40e9-aab8-5a17e0aec408
+TCGA-DD-A11B	2005	14	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	rx	liver	1	73	TCGA	LIHC	1	8	6	7	6	1b1b1af0-b19b-4086-b1b7-669fa0b88235
+TCGA-GJ-A6C0	2012	31	NA	NA	not hispanic or latino	female	stage ii	mx	nx	t2	white	no	rx	liver	1	75	TCGA	LIHC	1	8	8	8	7	1b326242-4be6-4f05-b5fb-07ed76b49850
+TCGA-CC-5262	2010	103	NA	NA	not hispanic or latino	male	stage iiic	m0	n0	t4	asian	no	NA	liver	1	67	TCGA	LIHC	1	9	7	8	7	1b428ada-eb3f-40c2-b4bf-1bbf6b61729d
+TCGA-DD-AADW	2013	NA	587	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	48	TCGA	LIHC	1	8	6	7	5	1bcf1762-7926-45f6-a367-d45fc3af7bc3
+TCGA-DD-A1EF	2007	394	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	NA	r0	liver	1	57	TCGA	LIHC	1	7	6	7	5	1c1e8987-676f-417b-b3b4-e0321367df55
+TCGA-DD-A11D	2006	1560	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	1	57	TCGA	LIHC	1	9	8	9	7	0ef95351-0133-4f34-a59c-90934fb161f8
+TCGA-DD-AACQ	2009	432	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	1	50	TCGA	LIHC	1	7	6	7	5	0f34d654-8984-4b8b-b345-67066d611513
+TCGA-DD-A1ED	2006	NA	2301	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	68	TCGA	LIHC	1	10	8	9	8	0ff6364a-e6f4-47ca-a7e7-14705bf0a8df
+TCGA-UB-A7MA	2013	NA	848	NA	not hispanic or latino	female	stage ii	m0	n0	t2b	white	no	r1	liver	0	62	TCGA	LIHC	1	9	7	9	7	10179efc-a091-4119-8ec2-30db6269d674
+TCGA-DD-A4NF	2011	NA	942	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	72	TCGA	LIHC	1	8	6	7	6	1043bc90-72c9-48c9-ae24-f617d0485e78
+TCGA-XR-A8TG	2012	NA	898	NA	hispanic or latino	male	stage i	m0	nx	t1	white	yes	r0	liver	0	58	TCGA	LIHC	1	9	8	9	7	1d7d5166-6582-4ea1-b242-37c2c3919a3c
+TCGA-DD-AADJ	2011	NA	1066	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	70	TCGA	LIHC	1	8	6	8	6	1d880aea-9efe-4a43-8a6a-6a81801da9e0
+TCGA-XR-A8TF	2012	693	NA	NA	hispanic or latino	male	stage i	mx	nx	t1	white	no	r0	liver	1	74	TCGA	LIHC	1	8	7	8	6	1e9f910c-82c0-4222-a62f-b656839307fc
+TCGA-K7-AAU7	2013	NA	359	NA	not hispanic or latino	male	stage ii	mx	nx	t2a	white	no	rx	liver	0	61	TCGA	LIHC	1	8	6	8	6	1eacfcc0-1d05-4441-b3d8-b0790e1c40f1
+TCGA-DD-AAW0	2009	NA	2015	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	54	TCGA	LIHC	1	8	6	7	6	109436aa-a655-429b-8d3b-1a43385c9016
+TCGA-G3-A7M9	2013	56	NA	NA	not hispanic or latino	male	stage iiib	mx	nx	t3b	white	no	r0	liver	1	70	TCGA	LIHC	1	7	5	7	5	115b754d-8559-4f1d-af44-fcd8c2cef86a
+TCGA-DD-AAVW	2008	NA	2317	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	35	TCGA	LIHC	1	9	7	8	7	11823a8a-194f-4e6b-a373-ef5a3fc7d2b9
+TCGA-DD-AAVZ	2009	NA	1900	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	38	TCGA	LIHC	1	9	7	9	7	11f69d9f-a67d-41fa-95a9-baa194b3fcfb
+TCGA-DD-AAD1	2010	NA	564	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r1	liver	0	51	TCGA	LIHC	1	8	8	8	7	1f482810-433a-4d46-b81b-f7909fff8c09
+TCGA-ED-A7XO	2013	NA	427	NA	not hispanic or latino	male	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	29	TCGA	LIHC	1	8	7	8	6	20bb3855-66e2-46d4-b189-006b4b254c2e
+TCGA-DD-AACH	2008	195	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	1	69	TCGA	LIHC	1	8	7	8	6	219b067c-522f-4971-b0d0-86f9971d369d
+TCGA-ZP-A9CZ	2011	NA	706	NA	not hispanic or latino	male	NA	mx	nx	t1	asian	no	r0	liver	0	72	TCGA	LIHC	1	9	8	9	7	22077056-067d-4db5-98e5-106778ceca56
+TCGA-CC-A7IE	2012	217	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	57	TCGA	LIHC	1	7	6	7	6	220f75d7-08a4-4936-b4b2-0750e87ccdf5
+TCGA-MI-A75G	2012	NA	698	NA	not hispanic or latino	male	stage ii	m0	n0	t2	white	no	r0	liver	0	63	TCGA	LIHC	1	8	6	8	6	22dd3876-1f2c-4ddd-8fae-f5fb820993ba
+TCGA-BC-A10U	2000	837	NA	NA	not hispanic or latino	male	NA	mx	nx	t2	white	no	r1	liver	1	69	TCGA	LIHC	1	9	7	8	7	23103931-cc29-4f89-ae9c-79d53401ecea
+TCGA-G3-A25Y	2006	452	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	1	52	TCGA	LIHC	1	9	7	8	7	239b4298-b090-480a-a19f-9758a827aa30
+TCGA-CC-A5UE	2012	272	NA	NA	not hispanic or latino	male	stage iiib	m0	n0	t4	asian	no	r0	liver	1	48	TCGA	LIHC	1	8	6	8	6	23d8e6a0-fa79-4323-a0a6-2dea2a319667
+TCGA-DD-A73D	2012	NA	693	NA	not hispanic or latino	female	stage ii	mx	nx	t2	white	no	r0	liver	0	68	TCGA	LIHC	1	8	6	7	6	24170a77-94e0-4002-9d3e-a46c84e84fca
+TCGA-G3-A5SK	2012	NA	744	NA	not hispanic or latino	male	stage i	m0	nx	t1	white	no	r0	liver	0	58	TCGA	LIHC	1	9	8	9	7	24259d55-20ac-4359-861f-dcad7ad88cee
+TCGA-DD-AAD8	2011	NA	1219	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	73	TCGA	LIHC	1	8	6	7	6	24b66729-242b-4771-819d-77c9a1fcbb10
+TCGA-BC-4073	2009	NA	849	NA	not hispanic or latino	male	stage iiia	mx	n0	t3	white	no	r1	liver	0	73	TCGA	LIHC	1	8	8	8	8	00f209c3-041a-4c6e-8b0f-6383eb3c85fc
+TCGA-MI-A75E	2013	NA	507	NA	not hispanic or latino	male	stage iiic	m0	n0	t4	white	no	r0	liver	0	61	TCGA	LIHC	1	9	8	9	7	010d5817-9a3f-4a06-8643-653116c044ff
+TCGA-2Y-A9H7	2011	NA	1168	NA	not hispanic or latino	female	stage i	mx	n0	t1	white	no	r0	liver	0	81	TCGA	LIHC	1	8	6	8	6	18602ec8-aed1-4515-b0d1-0db6d1cbb2c4
+TCGA-MR-A520	2012	NA	229	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	NA	liver	0	58	TCGA	LIHC	1	8	6	7	6	25e893ad-a0fd-45ae-9aa9-9bcd7c2ec8e5
+TCGA-G3-A7M6	2013	NA	632	NA	not hispanic or latino	female	stage i	mx	nx	t1	white	no	r0	liver	0	60	TCGA	LIHC	1	8	6	7	5	2681f83d-233f-4ea2-b5e6-3c05af81f123
+TCGA-RC-A7SB	2012	NA	588	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	53	TCGA	LIHC	1	7	6	7	5	26d93d77-ab66-45aa-a162-98d091221afb
+TCGA-DD-A1EL	2009	415	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	black or african american	no	r0	liver	1	23	TCGA	LIHC	1	8	7	8	6	2854ffe8-1f77-497a-bf49-11e0189fee35
+TCGA-5R-AA1C	2013	NA	520	NA	not hispanic or latino	male	stage ii	m0	n0	t2	white	no	r0	liver	0	57	TCGA	LIHC	1	10	9	9	8	290890eb-321c-45dc-9cd1-45676c6e5e96
+TCGA-ED-A8O5	2013	NA	406	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	59	TCGA	LIHC	1	8	6	7	6	2bea076b-c923-4a91-a37b-c6615fec021c
+TCGA-2V-A95S	NA	NA	NA	NA	not hispanic or latino	male	stage ii	mx	nx	t2	asian	no	r0	liver	0	NA	TCGA	LIHC	1	10	10	10	10	2c041473-eaaa-4b7c-9b2e-b9da3543ad18
+TCGA-CC-A3MB	2011	315	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	36	TCGA	LIHC	1	9	7	8	6	2c53d48d-e3bc-49f3-bbe0-2eee24252b4c
+TCGA-G3-A5SJ	2012	NA	698	NA	not hispanic or latino	male	stage i	m0	nx	t1	white	no	r0	liver	0	59	TCGA	LIHC	1	9	8	9	7	2c8a1e74-33de-453f-8d1e-e226185e52fc
+TCGA-HP-A5MZ	NA	91	NA	NA	NA	male	stage i	m0	nx	t1	NA	no	r0	liver	1	62	TCGA	LIHC	1	10	9	10	8	2d00f09f-0074-46c8-b357-b5f33567762a
+TCGA-RC-A6M4	2010	NA	22	NA	not hispanic or latino	female	stage iiia	mx	nx	t3	white	NA	r1	liver	0	74	TCGA	LIHC	1	10	8	9	7	2d1dc64d-27de-4c83-a7fa-88da5b48bf24
+TCGA-DD-AAVP	2007	NA	2752	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	48	TCGA	LIHC	1	9	8	8	7	0004d251-3f70-4395-b175-c94c2f5b1b81
+TCGA-G3-A25Z	2010	NA	655	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	58	TCGA	LIHC	1	10	8	9	8	2f3d22ad-6917-4189-89d9-2a06c2d2de0a
+TCGA-DD-A4NP	2005	NA	3308	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	32	TCGA	LIHC	1	9	8	9	7	001887aa-36d0-463f-8bca-dec7043b4f2e
+TCGA-G3-A7M8	2013	NA	430	NA	not hispanic or latino	male	stage i	mx	nx	t1	asian	no	rx	liver	0	31	TCGA	LIHC	1	8	6	7	6	01cc571c-a47c-4548-9c14-5e51c79b095b
+TCGA-DD-A11C	2006	NA	662	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	rx	liver	0	69	TCGA	LIHC	1	10	8	9	8	023a1ad1-fb16-437e-9806-5063b47f76bd
+TCGA-CC-A9FW	2013	NA	248	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	0	68	TCGA	LIHC	1	7	6	7	5	027322f0-d720-41f8-897c-a10e5c1424c5
+TCGA-CC-A3MC	2011	NA	363	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	0	54	TCGA	LIHC	1	9	7	8	7	0277f393-3743-47d6-a96f-155baec9eb49
+TCGA-DD-A114	2005	1149	NA	NA	not hispanic or latino	male	stage ii	m0	NA	t2	black or african american	no	r0	liver	1	42	TCGA	LIHC	1	9	9	9	9	02931491-f56b-4233-a079-812e08bc0c59
+TCGA-K7-A5RF	2012	NA	631	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	r0	liver	0	64	TCGA	LIHC	1	9	8	8	7	3134f7d1-3359-497a-b8be-1f317d8ddaaa
+TCGA-2Y-A9GT	2006	1624	NA	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	r0	liver	1	51	TCGA	LIHC	1	10	10	10	10	31a2ecc5-2d45-4823-8187-dc701dd412a8
+TCGA-DD-AAW1	2009	NA	1989	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	0	55	TCGA	LIHC	1	9	8	9	7	31c7d56b-4af7-4fdb-ba83-63bf615fcc3d
+TCGA-WX-AA46	2012	NA	756	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	0	61	TCGA	LIHC	1	7	6	6	5	02c41e28-cf14-42e2-9e15-f43248ae16e0
+TCGA-DD-AAW2	2009	NA	1855	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	69	TCGA	LIHC	1	10	8	9	7	03df105e-a005-4577-bfdb-9644758d778e
+TCGA-DD-AAD2	2010	NA	658	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	66	TCGA	LIHC	1	9	8	8	7	03f5de7d-45a9-4a73-8c61-ed816d4a3ac5
+TCGA-G3-A25W	2010	NA	935	NA	not hispanic or latino	female	stage iiib	m0	n0	t3b	white	no	r0	liver	0	79	TCGA	LIHC	0	NA	NA	NA	NA	06ac44e9-1226-4202-828b-6f224766d7ac
+TCGA-5C-A9VG	2013	NA	328	NA	not hispanic or latino	male	stage ii	m0	n0	t2	white	no	r0	liver	0	58	TCGA	LIHC	1	7	5	6	5	073e51f9-fb79-4a5f-9ba0-2c9af03c0b85
+TCGA-BC-A3KF	2011	NA	8	NA	NA	female	stage i	m0	nx	t1	white	NA	r0	liver	0	66	TCGA	LIHC	1	9	8	9	7	07dd49fc-8a76-41e8-9eb3-107336f68701
+TCGA-G3-A25X	2007	NA	1779	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	73	TCGA	LIHC	1	9	8	9	8	08428220-abd4-484e-85ca-3673454c837e
+TCGA-RG-A7D4	2012	NA	1098	NA	not hispanic or latino	male	stage ii	m0	n0	t2	black or african american	no	r0	liver	0	69	TCGA	LIHC	1	10	10	10	10	08cbbb39-d05a-48b0-a966-5212c5923c8b
+TCGA-DD-AADE	2011	NA	1202	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	50	TCGA	LIHC	0	NA	NA	NA	NA	0904fd43-e25c-4d0f-acee-29faa3fd933b
+TCGA-G3-AAV4	2012	27	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	1	83	TCGA	LIHC	1	10	8	9	8	0955d871-5413-4ab2-8fdf-b4feb3aeef5d
+TCGA-DD-AAD0	2010	NA	137	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	73	TCGA	LIHC	1	8	6	7	6	09790a9b-cc2f-4d7e-a971-8fb4ecd9f791
+TCGA-UB-A7MF	2013	214	NA	NA	not hispanic or latino	male	stage iiia	mx	nx	t3a	white	no	r0	liver	1	56	TCGA	LIHC	1	10	10	10	10	8eef926b-f316-4fdb-b84a-262010258feb
+TCGA-BD-A2L6	2011	NA	1363	NA	NA	male	NA	mx	nx	t2	white	no	r0	liver	0	69	TCGA	LIHC	1	9	8	9	7	13a97cee-76b0-46a1-b728-d87b2248311e
+TCGA-G3-A5SI	2011	768	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	1	44	TCGA	LIHC	1	8	7	8	6	14201da5-4446-47be-af72-120b7780c6bf
+TCGA-DD-AAVU	2008	NA	2202	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	46	TCGA	LIHC	1	8	6	8	6	146c5332-1af5-4c49-b740-9a9edc795f24
+TCGA-MR-A8JO	2013	NA	330	NA	NA	male	stage i	mx	n0	t1	white	no	rx	liver	0	34	TCGA	LIHC	1	8	7	8	7	8574d285-e02a-4d2b-931b-73556a9fda02
+TCGA-DD-AAVV	2007	NA	2455	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	56	TCGA	LIHC	1	10	8	9	8	915f531b-8448-41c7-9dfb-9c83062b906e
+TCGA-ZP-A9CV	2011	1088	NA	NA	not hispanic or latino	male	NA	mx	nx	t1	white	no	r0	liver	1	59	TCGA	LIHC	1	10	9	10	8	91909c63-debc-42ad-b4be-56870195bdcb
+TCGA-ZS-A9CD	2010	1386	NA	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	1	73	TCGA	LIHC	1	10	8	9	7	9197ca4c-e48c-43af-ba61-d894faf3cc24
+TCGA-4R-AA8I	2013	262	NA	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	1	66	TCGA	LIHC	1	9	8	9	7	91a0c8cd-4f23-4569-8e5c-e5442f7af530
+TCGA-G3-A7M5	2013	NA	447	NA	not hispanic or latino	male	stage i	mx	nx	t1	asian	no	r0	liver	0	76	TCGA	LIHC	1	9	8	9	7	869f8a17-bced-4002-bd60-99df84a03b93
+TCGA-DD-A73F	2010	NA	1085	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	0	77	TCGA	LIHC	1	10	9	9	9	870c86e7-d6e1-4f9d-bb0b-bd1c66d6bcde
+TCGA-DD-AACN	2009	NA	1302	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	32	TCGA	LIHC	1	8	7	8	7	0afd4283-7311-4d69-a2f5-779628da45fc
+TCGA-ED-A7PZ	2013	NA	6	NA	not hispanic or latino	male	stage ii	m0	nx	t2	asian	no	r0	liver	0	61	TCGA	LIHC	1	7	5	6	5	87750e70-3af7-452a-9aa5-375acd3843ea
+TCGA-ED-A97K	2013	NA	6	NA	not hispanic or latino	male	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	54	TCGA	LIHC	1	8	7	8	6	8778dc9e-a7db-4464-a8af-11addb5e441a
+TCGA-DD-A3A1	2001	233	NA	NA	NA	male	stage iiia	m0	n0	t3b	NA	no	r0	liver	1	65	TCGA	LIHC	1	9	7	8	7	877b9f6b-9b34-40ed-933f-8fef204edf21
+TCGA-G3-A6UC	2012	NA	671	NA	not hispanic or latino	male	stage iiib	m0	n0	t3b	white	no	r0	liver	0	65	TCGA	LIHC	1	10	8	9	8	87aa894e-7676-40b7-9557-6541446d8cea
+TCGA-DD-AACJ	2008	NA	2102	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	75	TCGA	LIHC	1	8	6	7	6	93afbfa1-4d03-4105-8dda-b095f0ab308a
+TCGA-BD-A3ER	2011	NA	1115	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	0	62	TCGA	LIHC	1	9	7	8	7	9457a9a1-3dd1-4d88-b1e1-d20aae4491dd
+TCGA-DD-AACU	2010	NA	1567	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	59	TCGA	LIHC	1	9	8	9	7	88b6181c-1086-42df-8bb9-1069ec2dc675
+TCGA-G3-AAV2	2013	NA	372	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	50	TCGA	LIHC	1	9	7	8	6	1724c96a-2aa3-43d4-992a-08af948c0f45
+TCGA-DD-AACM	2009	NA	1769	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	48	TCGA	LIHC	0	NA	NA	NA	NA	173088ed-6bc0-4ccf-80e7-c647028cccd6
+TCGA-FV-A3R2	2005	194	NA	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	r0	liver	1	75	TCGA	LIHC	1	9	7	8	6	17833039-0d7e-47f0-90e6-8cabae94c124
+TCGA-LG-A9QD	2013	NA	366	NA	hispanic or latino	male	stage iiia	m0	n0	t3a	white	no	r0	liver	0	68	TCGA	LIHC	1	10	10	10	9	948a9bbc-60b0-4fb7-a707-76bc41294217
+TCGA-3K-AAZ8	2013	NA	396	NA	not hispanic or latino	male	stage iiib	mx	nx	t3b	black or african american	no	rx	liver	0	65	TCGA	LIHC	1	10	10	10	9	94e387ae-b641-4e9f-bb53-22c7b2a9cccb
+TCGA-CC-A8HT	2013	140	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	74	TCGA	LIHC	1	8	6	8	6	95408571-9d4e-412b-8ee8-7992e0270b0f
+TCGA-EP-A12J	2010	NA	570	NA	not hispanic or latino	male	stage i	mx	nx	t1	black or african american	no	r0	liver	0	62	TCGA	LIHC	1	10	9	9	8	959918d7-cb84-4745-a72f-d138176b1ecb
+TCGA-2Y-A9GS	2006	724	NA	NA	hispanic or latino	male	NA	mx	nx	t2	white	no	r0	liver	1	58	TCGA	LIHC	1	9	7	8	6	95b97198-1a1b-4f01-90f3-6c66638371d1
+TCGA-BC-A10R	1999	308	NA	NA	not hispanic or latino	female	NA	mx	nx	t3	white	no	r0	liver	1	66	TCGA	LIHC	1	7	6	7	5	0bf5bbd4-d9e8-42a6-9ab5-f2c174dec12c
+TCGA-G3-AAV6	2013	65	NA	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	white	no	r0	liver	1	53	TCGA	LIHC	1	7	5	6	5	a6733fa1-030a-45ed-9c24-0e64164d4998
+TCGA-DD-A4NS	2005	2456	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	1	61	TCGA	LIHC	1	8	7	8	6	a6a3f07c-ced4-451b-b2e5-c93e4ed622c1
+TCGA-CC-5263	2010	129	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	rx	liver	1	35	TCGA	LIHC	1	7	6	7	5	a6af3061-1484-4f6c-bb4b-c8f4626b4161
+TCGA-MI-A75C	2012	NA	291	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	64	TCGA	LIHC	1	9	7	9	7	a6c0def6-7649-485a-a679-50dafb5eade5
+TCGA-DD-AADL	2012	NA	636	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	58	TCGA	LIHC	1	8	6	7	5	a7f7e313-4636-4c54-b2b7-f5928a8368e4
+TCGA-EP-A2KB	2011	596	NA	NA	not hispanic or latino	female	stage i	mx	nx	t1	white	no	r0	liver	1	46	TCGA	LIHC	1	8	6	7	6	18c08546-bed3-4ed9-b223-479afe633c8e
+TCGA-CC-A8HU	2013	344	NA	NA	not hispanic or latino	female	stage iiia	m0	n0	t3	asian	no	r0	liver	1	39	TCGA	LIHC	1	7	6	7	5	1943ff2c-ca53-4e3c-acc1-5ae84f4ba230
+TCGA-DD-A4NB	2011	NA	989	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	25	TCGA	LIHC	1	8	7	8	7	1983fade-44f1-41e0-8983-f2ce8d649655
+TCGA-PD-A5DF	2007	639	NA	NA	not hispanic or latino	female	stage iiib	m0	n0	t4	white	no	NA	liver	1	58	TCGA	LIHC	1	8	6	8	6	1987b453-f97d-45c7-9c89-b9a33313d645
+TCGA-DD-AADP	2013	NA	458	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	45	TCGA	LIHC	1	8	6	7	5	96d42ecc-1157-453a-9661-9248ddf8f273
+TCGA-DD-AADI	2011	NA	1085	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	43	TCGA	LIHC	1	9	8	8	7	97472e71-66eb-434b-81b0-d727765f44cb
+TCGA-FV-A3I0	2011	NA	848	NA	not hispanic or latino	female	stage ii	m0	nx	t2	white	no	r0	liver	0	76	TCGA	LIHC	1	8	7	8	6	a8c2aa08-9156-4845-ad77-5e060858c757
+TCGA-ED-A82E	2013	NA	408	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	60	TCGA	LIHC	1	9	7	9	7	a96b67ba-6180-4b80-8792-877860421ca0
+TCGA-DD-A116	2002	1622	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	yes	r0	liver	1	68	TCGA	LIHC	1	9	7	8	7	994347ba-3045-4ade-926f-06420fbd906c
+TCGA-CC-A7II	2013	NA	399	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	0	54	TCGA	LIHC	1	6	4	5	4	aaf7c9b5-6cb7-42bf-a0d1-07975eae3be9
+TCGA-DD-A3A4	1998	612	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	white	no	r0	liver	1	37	TCGA	LIHC	1	8	6	7	6	ab35c9f9-3040-424d-a89f-dff3a1365bc6
+TCGA-G3-A5SL	2012	NA	621	NA	not hispanic or latino	male	stage ii	m0	nx	t2	white	no	r0	liver	0	70	TCGA	LIHC	1	10	8	9	7	9a56d8a8-dadd-442e-bc09-732cd619aef7
+TCGA-NI-A4U2	2005	1791	NA	NA	not hispanic or latino	male	stage iiia	mx	nx	t3	white	no	r0	liver	1	71	TCGA	LIHC	1	9	8	9	7	9aea3437-572a-48c6-beb9-9bdbcb243875
+TCGA-2Y-A9H3	2010	NA	1516	NA	hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	0	45	TCGA	LIHC	1	9	8	9	7	9b69d7f9-38eb-48e1-bdc0-a092a53bc709
+TCGA-DD-AACE	2008	NA	2184	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	62	TCGA	LIHC	1	9	7	8	7	abbcf6bd-4683-45ac-947a-51ae6ef0a244
+TCGA-DD-AAC9	2008	NA	347	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	51	TCGA	LIHC	1	9	7	8	7	ac6a1e0c-dba0-4b21-b12b-a501ed796bec
+TCGA-LG-A6GG	2013	NA	387	NA	not hispanic or latino	female	stage ii	m0	nx	t2	white	no	r0	liver	0	79	TCGA	LIHC	1	9	7	8	7	c618da6d-3c66-4a6a-8832-3526a3b75410
+TCGA-RC-A6M3	2009	NA	0	NA	NA	male	stage ii	m0	n0	t2	american indian or alaska native	NA	r0	liver	0	24	TCGA	LIHC	1	7	7	7	6	c6a74db2-cf97-4c7b-be8c-557ee27e1d43
+TCGA-2Y-A9H1	2010	1229	NA	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	r0	liver	1	58	TCGA	LIHC	1	9	8	9	8	9c5e2438-f587-4935-92f0-4bfd57468eaa
+TCGA-EP-A3RK	2012	NA	363	NA	not hispanic or latino	male	stage iiia	mx	nx	t3a	white	no	NA	liver	0	73	TCGA	LIHC	1	9	8	9	8	f15279dd-5d12-460b-9bd1-b4f95681ca65
+TCGA-DD-A4NQ	2007	373	NA	NA	hispanic or latino	male	stage ii	m0	n0	t2	white	no	r0	liver	1	60	TCGA	LIHC	1	8	7	8	7	c05720fe-19c1-4cff-819b-6806b26fc312
+TCGA-DD-A4ND	2007	NA	2746	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	0	56	TCGA	LIHC	1	8	7	8	7	c0bf9278-9cbb-4361-b4d8-ab172b67e276
+TCGA-DD-A3A5	1996	3125	NA	NA	not hispanic or latino	female	stage iii	m0	n0	t3	white	no	r0	liver	1	66	TCGA	LIHC	1	9	7	8	7	d8549d23-37d4-42bd-b472-f49bbebd09b0
+TCGA-DD-AACY	2010	NA	1450	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	61	TCGA	LIHC	1	9	8	9	7	d884561b-5828-4c47-acd7-3f02e181b596
+TCGA-MI-A75H	2012	NA	747	NA	not hispanic or latino	male	NA	mx	nx	NA	white	no	r0	liver	0	77	TCGA	LIHC	1	10	9	10	9	f3f6ba92-c68f-4313-99f4-0281272e02b6
+TCGA-G3-A25V	2010	NA	860	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	68	TCGA	LIHC	1	9	8	9	7	f435ec00-0db8-46b4-96bf-890a9d931df3
+TCGA-DD-AAVY	2009	NA	1970	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	0	56	TCGA	LIHC	1	9	7	8	6	c36f9ffe-515b-4895-b82a-aadc49fe3016
+TCGA-BC-A8YO	2013	NA	562	NA	not hispanic or latino	female	stage iiic	m0	n0	t4	white	no	r0	liver	0	66	TCGA	LIHC	1	9	9	9	9	f53a70d9-a774-4969-896e-2dcdd4d02a7a
+TCGA-RC-A7S9	2012	NA	640	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	47	TCGA	LIHC	1	9	8	9	8	f5de6712-4de4-43de-8eb5-ec2a798c8438
+TCGA-UB-A7MD	2013	52	NA	NA	not hispanic or latino	male	stage i	mx	n0	t1	black or african american	no	r0	liver	1	67	TCGA	LIHC	1	10	8	9	8	c49b41bf-0025-4682-966b-cfe8fb2b2546
+TCGA-DD-A3A6	1997	3258	NA	NA	not hispanic or latino	female	stage ii	m0	n0	t2	white	no	r0	liver	1	72	TCGA	LIHC	1	8	7	8	7	c4c4820b-6f4c-4cdd-b233-4d22f5933fd9
+TCGA-CC-A9FV	2013	NA	0	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	NA	r0	liver	0	57	TCGA	LIHC	1	8	7	7	7	c4e6527a-8f58-4f6b-93b1-04abb5680ed0
+TCGA-ED-A4XI	2012	NA	819	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	58	TCGA	LIHC	1	9	7	8	7	c52abac9-07da-4b3d-bf8a-2161cacf9682
+TCGA-DD-A39V	2000	643	NA	NA	not hispanic or latino	male	stage ii	m0	nx	t2	white	yes	r0	liver	1	77	TCGA	LIHC	1	9	8	8	8	dd056692-4e2a-4e45-a4d0-357af9754f0e
+TCGA-CC-A9FS	2013	NA	211	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	55	TCGA	LIHC	1	9	7	8	7	f661a921-2e59-424b-a145-e22664b73728
+TCGA-G3-A25T	2007	NA	1553	NA	not hispanic or latino	female	stage iiia	m0	n0	t3	white	no	r0	liver	0	45	TCGA	LIHC	1	8	7	8	6	f6e5979d-d6a9-4408-bd1b-1b37d1064e83
+TCGA-CC-5258	2010	129	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	rx	liver	1	48	TCGA	LIHC	1	7	6	7	6	6a93206a-c25c-4e45-b0ba-0a21bd8253b6
+TCGA-BC-A5W4	2012	547	NA	NA	not hispanic or latino	male	stage iiia	m0	nx	t3a	white	no	r1	liver	1	69	TCGA	LIHC	1	7	6	7	5	6bb5d506-8fca-43f3-90a6-03c915d7ede2
+TCGA-BD-A3EP	2010	NA	409	NA	not hispanic or latino	female	stage i	m0	n0	t1	black or african american	no	r0	liver	0	75	TCGA	LIHC	1	9	8	9	8	de302b98-250d-42fe-9945-11e1b2bbd3c6
+TCGA-UB-A7MC	2013	NA	500	NA	not hispanic or latino	male	stage iiia	mx	n0	t3a	white	no	r0	liver	0	59	TCGA	LIHC	1	8	6	7	6	f82aff25-0725-48d1-aefd-d60800f7d1ab
+TCGA-DD-A1EG	2007	1372	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	1	76	TCGA	LIHC	1	9	8	9	8	6c79f64b-63fe-46f5-bf7b-77208231b0f2
+TCGA-DD-AACB	2008	NA	2324	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	74	TCGA	LIHC	1	10	10	10	10	6d2e8bc2-ca86-41c1-ae49-289e20fce758
+TCGA-BC-A217	2010	1397	NA	NA	NA	female	stage ii	m0	nx	t2	white	no	r0	liver	1	75	TCGA	LIHC	1	10	8	9	8	6dcfc418-ab28-4365-95ea-c1ae254f2341
+TCGA-G3-AAV0	2013	NA	476	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	58	TCGA	LIHC	1	8	7	8	7	6e657705-8579-433b-af7a-b6155b599518
+TCGA-DD-AAEK	2010	NA	1067	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	51	TCGA	LIHC	1	9	8	9	8	6ea0ef82-694d-492d-95da-a3bc8de99149
+TCGA-BC-A10Q	1998	1135	NA	NA	not hispanic or latino	female	NA	mx	nx	t2	white	no	r1	liver	1	72	TCGA	LIHC	1	10	8	9	7	dfa15fbe-bb14-40ce-afc6-70694112e3e2
+TCGA-DD-A4NL	2007	NA	1711	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	46	TCGA	LIHC	1	9	8	9	7	e0067280-2722-46f2-a5a8-352c77b47e38
+TCGA-CC-A7IF	2013	649	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	59	TCGA	LIHC	1	9	7	8	6	e0674b82-2fba-421e-be62-58efd0348d44
+TCGA-DD-A73E	2012	NA	44	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	66	TCGA	LIHC	1	8	6	8	6	e0863874-f7b8-49b6-a88b-5ae5f1ec2b15
+TCGA-GJ-A3OU	2011	NA	879	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	rx	liver	0	59	TCGA	LIHC	1	8	8	8	8	fb2abc2a-ecf1-4184-912f-26a649f861ff
+TCGA-BC-A10Z	2003	34	NA	NA	not hispanic or latino	female	stage i	mx	n0	t1	white	no	r0	liver	1	62	TCGA	LIHC	1	7	5	6	4	709f1e4d-f5e8-4a0b-8254-23f037f4bae7
+TCGA-BC-A69I	2013	NA	387	NA	NA	male	stage i	m0	n0	t1	white	no	r0	liver	0	69	TCGA	LIHC	1	9	7	8	7	70aecc90-17f0-4064-8ebb-be81f9b1d7fd
+TCGA-DD-AADF	2011	115	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	1	64	TCGA	LIHC	1	9	8	9	8	70bb26b8-b38b-4e79-90e7-033a38405b00
+TCGA-RC-A7SF	2012	NA	579	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	66	TCGA	LIHC	1	8	6	7	6	714a6878-ed2a-47f3-9755-b705ac144d68
+TCGA-EP-A2KC	2011	19	NA	NA	not hispanic or latino	male	stage i	mx	nx	t1	black or african american	no	r0	liver	1	62	TCGA	LIHC	1	10	8	10	8	71681db9-fa90-4fe1-a497-67d501eb75f0
+TCGA-DD-AAEH	2012	NA	784	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	73	TCGA	LIHC	1	10	9	10	9	fbb0e4bc-5398-4a7e-963c-86ea1108a2de
+TCGA-KR-A7K2	2013	NA	829	NA	NA	male	stage i	m0	n0	t1	white	no	r0	liver	0	64	TCGA	LIHC	1	10	8	9	8	fbb398fe-2ba8-4845-8083-6533ecb4a52e
+TCGA-ES-A2HS	2008	688	NA	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	NA	r0	liver	1	80	TCGA	LIHC	1	7	5	6	5	728aedb3-551a-4c16-9be3-7733a9539e9e
+TCGA-CC-5259	2010	NA	250	NA	not hispanic or latino	female	stage iiic	m0	n0	t4	asian	no	r0	liver	0	60	TCGA	LIHC	1	10	8	9	8	7444eea6-90e8-42dd-a7b5-0afc6d96e1e8
+TCGA-2Y-A9GY	2007	757	NA	NA	not hispanic or latino	female	stage ii	mx	nx	t2	white	no	r0	liver	1	64	TCGA	LIHC	1	7	7	7	7	75030b63-59af-4705-86e7-3a431b7cf65a
+TCGA-BC-A3KG	2011	NA	680	NA	not hispanic or latino	female	stage ii	m0	n0	t2	white	no	r0	liver	0	68	TCGA	LIHC	1	8	7	8	6	75f43fca-200a-48b0-bb67-0693d7b91119
+TCGA-DD-A4NO	2007	NA	2245	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	65	TCGA	LIHC	1	9	7	8	7	75f78c38-6854-4390-ad11-789b4e549d63
+TCGA-O8-A75V	2013	NA	538	NA	hispanic or latino	male	stage i	mx	nx	t1	NA	no	r1	liver	0	54	TCGA	LIHC	1	10	8	9	8	76cc9c06-0827-465e-bab3-5f4115295ebe
+TCGA-BC-A69H	2013	NA	444	NA	not hispanic or latino	male	stage ii	m0	nx	t2	white	no	r0	liver	0	64	TCGA	LIHC	1	7	6	7	6	79df037c-7d37-4e6c-a654-57708a4f87aa
+TCGA-DD-A73C	2012	NA	701	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	white	no	r0	liver	0	65	TCGA	LIHC	1	8	7	8	7	79f9331c-9e00-4277-a9d1-7c848e132134
+TCGA-5C-AAPD	2013	NA	20	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	61	TCGA	LIHC	1	8	8	8	8	7a6162a4-1166-4310-84cd-ffc2b06f124c
+TCGA-DD-AACP	2009	NA	415	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	64	TCGA	LIHC	1	7	6	7	5	7ad77384-0946-4fb5-9b10-bdc8a5fc8d87
+TCGA-KR-A7K7	2012	NA	951	NA	NA	female	stage ii	m0	n0	t2	white	no	r0	liver	0	61	TCGA	LIHC	1	9	8	9	8	7ba3d8f1-0c26-4c49-8d6b-0f2875b58daf
+TCGA-ZS-A9CE	2011	NA	1241	NA	not hispanic or latino	female	stage ii	mx	nx	t2	white	no	r0	liver	0	79	TCGA	LIHC	1	9	7	8	7	7bdc5f86-4d7d-4f1f-bc23-ab51fa9fb947
+TCGA-DD-A118	2003	NA	3437	NA	not hispanic or latino	female	stage ii	m0	n0	t2	white	no	r0	liver	0	77	TCGA	LIHC	1	8	7	8	6	7d914d07-f250-4c7a-8fa2-df14e708936e
+TCGA-ES-A2HT	2007	438	NA	NA	not hispanic or latino	male	stage i	mx	nx	t1	black or african american	NA	r0	liver	1	54	TCGA	LIHC	1	10	9	10	8	7dd3bda9-3a0a-46fa-b052-a6d24b847804
+TCGA-DD-A4NG	2011	802	NA	NA	not hispanic or latino	male	stage iiia	m0	nx	t3a	white	no	r0	liver	1	77	TCGA	LIHC	1	9	7	8	7	89791f8f-dc06-4a04-b166-afbfd6cf53de
+TCGA-DD-AADR	2009	NA	2028	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	58	TCGA	LIHC	1	9	7	9	7	899d8ea5-49dc-4970-8848-ea6ea088a272
+TCGA-DD-AADG	2011	NA	1145	NA	not hispanic or latino	male	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	70	TCGA	LIHC	1	9	7	8	6	89d1261c-6d93-4298-a2af-b5ff52be0cb6
+TCGA-G3-A3CG	2011	NA	673	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r1	liver	0	80	TCGA	LIHC	1	10	9	10	9	8a14d153-bbf7-4512-a067-976edfb65f91
+TCGA-XR-A8TC	2011	NA	1339	NA	hispanic or latino	female	stage i	mx	nx	t1	white	no	r0	liver	0	43	TCGA	LIHC	1	9	7	8	6	4db9de75-9297-46e5-acc5-9275f52a642a
+TCGA-G3-AAV5	2013	NA	354	NA	not hispanic or latino	male	stage ii	m0	n0	t2	white	yes	r0	liver	0	67	TCGA	LIHC	1	8	7	8	6	4dff4242-4a53-4f46-b200-7ed83f6b7808
+TCGA-BC-A10T	2000	837	NA	NA	not hispanic or latino	male	NA	mx	nx	t4	white	no	r1	liver	1	76	TCGA	LIHC	1	8	6	7	6	8a9cde9a-c38c-423e-bc14-354ee26468c9
+TCGA-CC-A5UC	2012	347	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	63	TCGA	LIHC	1	8	6	7	6	7e589ee1-ffcc-448a-a275-829ca26a597e
+TCGA-HP-A5N0	NA	1147	NA	NA	NA	female	NA	m0	nx	tx	NA	no	r0	liver	1	87	TCGA	LIHC	1	9	7	8	7	7f8e25d4-6021-4327-96ab-79b6fcc97a24
+TCGA-ED-A8O6	2013	56	NA	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	asian	no	r0	liver	1	50	TCGA	LIHC	1	8	6	7	6	7fb03840-5153-4dc6-a302-5a89aa4e1fb6
+TCGA-ZS-A9CF	2008	NA	2412	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	0	64	TCGA	LIHC	1	10	8	9	8	7fe5e2d9-c514-47bc-8387-3f940f7a822d
+TCGA-2Y-A9H4	2010	NA	1452	NA	not hispanic or latino	male	stage i	mx	n0	t1	black or african american	no	r0	liver	0	68	TCGA	LIHC	1	9	8	9	7	801b1d2c-eb6f-4eef-a00b-83da939d755a
+TCGA-K7-A5RG	2012	NA	519	NA	not hispanic or latino	male	stage i	mx	nx	t1	black or african american	no	r0	liver	0	66	TCGA	LIHC	1	9	9	9	10	4fd3ed02-7b66-47bf-8b92-31fee1093a87
+TCGA-FV-A496	2012	NA	10	NA	not hispanic or latino	female	stage i	m0	nx	t1	white	NA	r0	liver	0	84	TCGA	LIHC	1	9	7	8	6	8afa3140-dcbd-44c0-ab13-4ada6a0444d4
+TCGA-LG-A9QC	2013	NA	425	NA	not hispanic or latino	male	stage i	m0	nx	t1	white	no	r0	liver	0	48	TCGA	LIHC	1	10	8	9	8	8c2783ef-aa41-44c9-be87-fa4c84108f1e
+TCGA-DD-A1EA	2002	NA	2415	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	68	TCGA	LIHC	1	10	8	9	8	8052c374-9435-4588-b970-68565c56dbb7
+TCGA-DD-AAVQ	2007	NA	2728	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	38	TCGA	LIHC	1	10	9	10	9	80e7742f-abbe-4f11-b4e4-c999dc1bd459
+TCGA-DD-A1E9	2002	2759	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	1	70	TCGA	LIHC	0	NA	NA	NA	NA	8153a862-0790-4a33-80db-ed47fedcd4ef
+TCGA-DD-A4NJ	2011	NA	928	NA	not hispanic or latino	female	stage ii	m0	n0	t2	white	no	r0	liver	0	54	TCGA	LIHC	1	9	7	9	7	815dffb0-0c22-4e05-868c-26e6c553980a
+TCGA-K7-A6G5	2013	NA	512	NA	not hispanic or latino	male	stage i	mx	n0	t1	white	no	rx	liver	0	66	TCGA	LIHC	1	10	9	10	8	81eddcda-0069-4652-9dc6-8aac89cba1ff
+TCGA-DD-A3A3	1999	535	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	NA	r0	liver	1	45	TCGA	LIHC	1	9	7	8	7	516c8594-2973-41e5-a5ce-76d177edfa48
+TCGA-2Y-A9H5	2010	555	NA	NA	not hispanic or latino	female	stage i	mx	n0	t1	white	no	r0	liver	1	59	TCGA	LIHC	1	9	7	8	7	51810579-e20d-4f08-93e7-891d645931db
+TCGA-DD-A4NI	2011	NA	816	NA	not hispanic or latino	male	stage ii	m0	nx	t2	white	no	r0	liver	0	67	TCGA	LIHC	1	9	8	8	7	518aa9cc-71cf-4734-9d55-b435da99d300
+TCGA-DD-A1EC	2004	NA	602	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	0	20	TCGA	LIHC	1	9	9	9	9	520a709a-87f6-4f3d-b2a2-9192e3b65c5b
+TCGA-DD-A1EJ	2008	1005	NA	NA	not hispanic or latino	female	stage iiic	m0	n1	t1	white	no	r0	liver	1	71	TCGA	LIHC	1	6	5	6	4	52292ffc-0902-4d97-b461-20723987a177
+TCGA-DD-AAED	2012	NA	763	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	51	TCGA	LIHC	1	6	5	6	4	527d2bc3-7fdd-4b08-839d-67e2f246db04
+TCGA-DD-A4NV	2007	NA	2398	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	white	no	r0	liver	0	61	TCGA	LIHC	1	8	6	7	6	8e5ce60b-2eda-482d-b109-210df1321aff
+TCGA-DD-AACV	2010	NA	1531	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	53	TCGA	LIHC	1	6	5	6	4	8e79ea29-787e-4a33-8465-9891776f47ed
+TCGA-CC-A3M9	2011	300	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	45	TCGA	LIHC	1	7	8	7	8	8e938868-d992-47c4-becb-93b0f7fffe07
+TCGA-DD-AACS	2009	NA	1804	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	39	TCGA	LIHC	1	8	7	8	6	82d6268a-de59-4a14-abd2-7492178fa5bd
+TCGA-DD-AAVR	2007	NA	2513	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	44	TCGA	LIHC	1	10	9	10	8	834cff01-3c12-42fa-abbe-ae0ae168c568
+TCGA-DD-A4NR	2005	9	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	1	85	TCGA	LIHC	1	8	8	8	8	52a7f734-da07-49c5-861d-c70da37ff959
+TCGA-CC-A7IG	2013	299	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	1	47	TCGA	LIHC	1	7	6	6	6	534a7b11-3abd-4581-a9c9-d984d6aa33a0
+TCGA-WX-AA44	2011	NA	615	NA	hispanic or latino	female	stage i	mx	nx	t1	white	yes	rx	liver	0	64	TCGA	LIHC	1	9	8	9	7	5436fafb-bc16-4450-ac8b-568e1e5ee5fe
+TCGA-DD-A73B	2012	283	NA	NA	hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	1	72	TCGA	LIHC	1	9	7	8	6	5449c232-56f1-4e03-9421-aba3ae180107
+TCGA-MI-A75I	2011	NA	630	NA	not hispanic or latino	male	NA	mx	nx	t2	black or african american	no	r0	liver	0	61	TCGA	LIHC	1	10	8	9	8	55e53229-c58f-4922-8869-0f5e2f6c2d7d
+TCGA-ED-A459	2012	NA	910	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	yes	r0	liver	0	47	TCGA	LIHC	1	10	9	10	8	56403463-1727-4c23-a709-de5f168c4073
+TCGA-DD-AAE2	2013	NA	638	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	51	TCGA	LIHC	1	9	8	8	8	56447eb8-c50c-4e31-a29e-bde6bfd31af4
+TCGA-DD-AAW3	2009	NA	1633	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	69	TCGA	LIHC	1	9	7	8	6	564b4f4d-3c18-40d5-9d95-916774df600c
+TCGA-BW-A5NP	2010	NA	0	NA	hispanic or latino	female	stage iv	m1	n0	t2	white	no	rx	liver	0	26	TCGA	LIHC	1	7	6	7	5	56a82a56-0241-4d3d-9de2-696b0c36df91
+TCGA-DD-AA3A	2009	410	NA	NA	not hispanic or latino	female	stage i	mx	n0	t1	white	no	r0	liver	1	81	TCGA	LIHC	1	10	8	9	8	56abd1c1-8f22-4856-8b0a-73d7e092bdb3
+TCGA-XR-A8TD	2012	NA	1030	NA	hispanic or latino	female	stage iiib	m0	n0	t3	white	no	r0	liver	0	49	TCGA	LIHC	1	9	9	9	9	574ba00b-fee6-4aab-ac01-6ffaf8fdc0c5
+TCGA-BC-A10S	1999	1423	NA	NA	not hispanic or latino	male	NA	mx	nx	t3	white	no	r0	liver	1	81	TCGA	LIHC	1	8	7	8	6	592ef526-176a-42e0-bbeb-fb62d369a343
+TCGA-T1-A6J8	2013	NA	23	NA	not hispanic or latino	male	NA	m0	nx	t1	white	NA	rx	liver	0	68	TCGA	LIHC	1	9	7	8	7	59f163d2-6a7c-41b8-b4d6-f07174dafc6e
+TCGA-KR-A7K0	2013	65	NA	NA	NA	male	stage i	m0	n0	t1	white	no	r0	liver	1	65	TCGA	LIHC	1	9	7	9	7	5a7706ba-3cea-41eb-b78a-fd69206daa93
+TCGA-CC-A8HV	2013	279	NA	NA	not hispanic or latino	female	stage ii	m0	n0	t2	asian	no	r0	liver	1	51	TCGA	LIHC	1	7	5	7	5	5b32d3f4-9b88-42de-aaac-22d1d2f5cde0
+TCGA-DD-A4NK	2004	1210	NA	NA	not hispanic or latino	female	stage iiia	m0	n0	t3	white	no	r0	liver	1	80	TCGA	LIHC	1	8	6	7	6	5b8d04b2-ef40-4216-a3bb-42520efbe863
+TCGA-FV-A4ZP	2005	2486	NA	NA	not hispanic or latino	male	stage iiia	m0	nx	t3	white	no	r1	liver	1	78	TCGA	LIHC	1	7	7	7	7	5c08008d-5ed4-4480-bd00-c8a2d8c787dc
+TCGA-BC-4072	2005	1490	NA	NA	not hispanic or latino	female	stage iiia	m0	n0	t3	white	no	r1	liver	1	74	TCGA	LIHC	1	9	8	9	8	5c9a21a3-d471-401a-9568-59dc84245d28
+TCGA-G3-AAV7	2013	NA	361	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	38	TCGA	LIHC	1	9	7	8	7	5d259f26-3bef-4fe4-948b-495183f5f8be
+TCGA-CC-A9FU	2013	NA	0	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	asian	NA	r0	liver	0	52	TCGA	LIHC	1	8	6	7	6	5e2a99a1-41c1-49ca-97d6-69f9b9938d24
+TCGA-DD-AAE0	2013	NA	555	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	45	TCGA	LIHC	1	8	7	8	6	5e4136e4-ddd8-4faf-8a8e-5f836fd97f49
+TCGA-DD-AADB	2011	NA	1242	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	51	TCGA	LIHC	1	8	7	8	7	5eaaf7ae-36af-4fb4-8940-e0861983ceb0
+TCGA-DD-A11A	2004	NA	79	NA	not hispanic or latino	male	stage i	m0	n0	t1	black or african american	NA	r0	liver	0	67	TCGA	LIHC	1	8	6	7	6	609c82fd-eb3a-46d7-8c09-0cde281a50b3
+TCGA-5C-A9VH	2013	NA	322	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	70	TCGA	LIHC	1	10	8	9	8	60fcd491-0170-46c0-ab14-d71f88267a14
+TCGA-CC-A3MA	2011	303	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	61	TCGA	LIHC	1	9	7	9	6	613ddb95-14d7-4941-b374-fb5cd344d1bb
+TCGA-DD-A3A7	1998	419	NA	NA	NA	male	stage iiib	m0	n0	t3b	NA	no	r0	liver	1	67	TCGA	LIHC	1	8	7	7	6	614c0ecf-6a84-4c86-8706-79be5bb00991
+TCGA-CC-5264	2010	102	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	rx	liver	1	71	TCGA	LIHC	1	9	8	9	7	61902cb6-b041-48ac-aacc-483a28949865
+TCGA-DD-AADM	2012	12	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	1	58	TCGA	LIHC	1	10	8	9	8	62c02da8-e4b4-4294-9923-8992d187fc7b
+TCGA-DD-AAD5	2011	NA	1345	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	54	TCGA	LIHC	1	8	6	7	6	6312d5b5-68ad-4d4f-a0a9-03d895ae30f9
+TCGA-DD-AACF	2008	365	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	1	68	TCGA	LIHC	1	9	8	8	7	635aad0b-9c47-4564-821f-c00ddb280d53
+TCGA-WJ-A86L	2013	NA	345	NA	not hispanic or latino	female	stage i	mx	nx	t1	white	no	r0	liver	0	68	TCGA	LIHC	1	8	7	8	6	63d475ef-8f26-45ed-ae80-cfa87e68b2f5
+TCGA-BC-A10Y	2002	711	NA	NA	not hispanic or latino	male	NA	mx	nx	t4	white	no	r0	liver	1	76	TCGA	LIHC	1	10	9	9	8	6533648f-1353-4253-b65b-d472aacf5751
+TCGA-DD-A1EE	2006	349	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	white	no	r0	liver	1	73	TCGA	LIHC	1	9	7	8	6	654af137-70d9-4ee4-9f69-793e352d30f8
+TCGA-FV-A4ZQ	2012	NA	12	NA	not hispanic or latino	male	stage i	m0	nx	t1	white	NA	r0	liver	0	52	TCGA	LIHC	1	10	10	10	10	65e430e1-0c9a-4045-83a9-653b7cff811d
+TCGA-DD-A119	2003	223	NA	NA	not hispanic or latino	male	stage iv	m1	n0	t3a	asian	NA	r2	liver	1	40	TCGA	LIHC	1	9	8	9	7	66c6f413-b7a8-4d7c-9e1d-c4fb257b9e5c
+TCGA-CC-A1HT	2010	101	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	NA	liver	1	50	TCGA	LIHC	1	8	8	9	8	670c1cbc-4494-45f1-bb8b-18db82d4f7e0
+TCGA-DD-AACW	2010	NA	1424	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	43	TCGA	LIHC	1	8	7	8	6	67a00f5f-c753-48f9-bc24-8287f50ec776
+TCGA-DD-A1EB	2001	NA	2017	NA	NA	female	stage i	m0	n0	t1	NA	no	r0	liver	0	72	TCGA	LIHC	1	10	9	9	8	68015cc7-d3a1-4c90-b8fb-5d14143d9960
+TCGA-DD-A3A8	2001	11	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	white	no	r0	liver	1	75	TCGA	LIHC	1	9	7	8	7	69d6881b-9e9a-407b-8b02-bad5fc2455bf
+TCGA-G3-A3CI	2011	NA	180	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	NA	r0	liver	0	71	TCGA	LIHC	1	8	7	8	6	b5465221-78fe-40a8-abec-bed600602dd4
+TCGA-CC-A7IL	2013	278	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	61	TCGA	LIHC	1	10	8	9	8	b54df65f-8a6b-4405-9918-90d53418804c
+TCGA-DD-AACG	2008	469	NA	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	1	52	TCGA	LIHC	1	8	7	8	6	b5bef77a-f46c-406c-9aa8-55f7a61aa885
+TCGA-DD-A73A	2012	NA	728	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r0	liver	0	71	TCGA	LIHC	1	9	7	8	7	b6c0266a-cf34-464a-808d-1d3c28dc90f2
+TCGA-BC-A110	2003	2116	NA	NA	not hispanic or latino	female	NA	mx	nx	t1	black or african american	no	r0	liver	1	51	TCGA	LIHC	1	8	7	8	7	cf028bce-d20d-42b8-8507-1ec94a391e85
+TCGA-DD-AADU	2013	NA	554	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	60	TCGA	LIHC	1	9	7	8	7	cf358fb8-866c-4780-a550-d6c1c30b8c63
+TCGA-2Y-A9H2	2010	NA	1731	NA	not hispanic or latino	female	stage i	mx	n0	t1	white	no	r0	liver	0	64	TCGA	LIHC	1	10	9	9	8	cf7f0473-eaf3-4259-a68e-475a782fc84c
+TCGA-DD-A1EK	2008	558	NA	NA	not hispanic or latino	female	stage ivb	m1	n0	t4	white	no	r0	liver	1	64	TCGA	LIHC	1	7	6	6	5	a5e4412b-0e49-4d86-9cce-71f440a84048
+TCGA-DD-AAE6	2012	NA	141	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	59	TCGA	LIHC	1	5	4	5	3	a61f823b-9164-4bd6-92f4-0a8d8ff0f55e
+TCGA-RC-A6M6	2011	NA	9	NA	not hispanic or latino	male	stage ii	m0	nx	t2	white	NA	r1	liver	0	75	TCGA	LIHC	1	7	7	7	6	a62f065e-7491-493a-87b3-d213cd87091d
+TCGA-UB-AA0V	2013	NA	314	NA	not hispanic or latino	female	stage i	mx	nx	NA	white	no	r0	liver	0	69	TCGA	LIHC	1	8	6	7	6	ea214f79-0f6b-403f-8693-c844bf4b77cb
+TCGA-ED-A66X	2013	NA	406	NA	not hispanic or latino	male	stage iiia	m0	n0	t3a	asian	no	r0	liver	0	35	TCGA	LIHC	1	9	7	8	7	b75ca9e4-a474-4960-9343-c8e9524cd096
+TCGA-EP-A26S	2011	NA	608	NA	not hispanic or latino	male	stage i	mx	n0	t1	white	no	NA	liver	0	70	TCGA	LIHC	1	8	6	7	5	b7d6621c-8bce-4a01-8588-9d7761d9372b
+TCGA-G3-A25S	2009	416	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	r1	liver	1	64	TCGA	LIHC	1	7	6	7	6	b865dec4-f051-4fbe-9405-f832ff2010d7
+TCGA-CC-A8HS	2013	300	NA	NA	not hispanic or latino	male	stage iiic	m0	n1	t3	asian	no	r0	liver	1	18	TCGA	LIHC	1	8	6	7	5	d18cd259-267e-47b5-9353-ad3454e048a0
+TCGA-2Y-A9GV	2007	2532	NA	NA	not hispanic or latino	female	stage i	mx	nx	t1	white	no	r0	liver	1	54	TCGA	LIHC	1	10	9	9	8	d1aa9c1a-d732-48c0-b669-8a14e0397344
+TCGA-RC-A7SK	2013	NA	472	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	59	TCGA	LIHC	1	9	7	9	7	acfd58eb-c546-49c3-a846-684f22428219
+TCGA-DD-AAEA	2012	NA	575	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	65	TCGA	LIHC	1	9	8	9	8	ad9657aa-34e9-48b1-ba63-916fe7bd14bb
+TCGA-CC-A7IK	2013	262	NA	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	1	59	TCGA	LIHC	1	8	6	8	6	eba5208b-404a-45df-9133-31ff122e7fc0
+TCGA-XR-A8TE	2012	NA	925	NA	hispanic or latino	male	stage iiia	mx	n0	t3	white	no	r0	liver	0	16	TCGA	LIHC	1	9	7	8	7	ec4b4d34-2576-4412-b036-7460e64f4398
+TCGA-DD-AAE8	2012	NA	664	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	45	TCGA	LIHC	0	NA	NA	NA	NA	b929ece7-6caf-4081-83d3-9923306b4a8a
+TCGA-DD-A4NN	2004	899	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	white	no	r0	liver	1	56	TCGA	LIHC	1	7	6	6	5	b96b7620-5506-4def-aff2-5e888eaf3ea5
+TCGA-G3-A25U	2007	NA	1636	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	63	TCGA	LIHC	1	7	5	6	5	b9835dc5-bf31-4541-a973-e8ca802d80ba
+TCGA-UB-AA0U	2013	NA	327	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r1	liver	0	60	TCGA	LIHC	1	9	7	8	7	ae8d4b34-d40a-482d-9d45-23242843df00
+TCGA-DD-A3A0	2001	785	NA	NA	not hispanic or latino	male	stage i	m0	nx	t1	white	no	r0	liver	1	70	TCGA	LIHC	0	NA	NA	NA	NA	ae99d9fd-1735-4217-b4ef-33b377fbd594
+TCGA-DD-A113	2006	NA	2425	NA	not hispanic or latino	female	stage ii	m0	n0	t2	white	no	r0	liver	0	55	TCGA	LIHC	1	8	7	8	6	aeb17d2b-fa8c-4989-bf3a-d2c74b785455
+TCGA-DD-AAE4	2013	NA	608	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	49	TCGA	LIHC	1	10	9	9	8	c797d6ad-05d4-4322-bad2-29801a986b4e
+TCGA-G3-A5SM	2012	NA	520	NA	not hispanic or latino	male	stage ii	m0	nx	t2	white	no	r0	liver	0	58	TCGA	LIHC	1	10	9	10	8	d397e70f-c174-4656-9b7e-5e4c00754410
+TCGA-FV-A2QR	2006	581	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	white	no	rx	liver	1	NA	TCGA	LIHC	1	9	7	8	7	d3a03f7a-3482-4548-957e-05c692b20101
+TCGA-5R-AA1D	2013	NA	449	NA	not hispanic or latino	female	stage iiia	m0	n0	t3a	white	yes	r0	liver	0	17	TCGA	LIHC	1	9	7	8	7	d3d3dba9-139e-4f57-ac70-b741553d1687
+TCGA-BW-A5NQ	2010	NA	0	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	NA	rx	liver	0	63	TCGA	LIHC	1	9	8	9	8	c7f1b389-aec7-4993-8afb-b7a56064f8fc
+TCGA-DD-AACC	2008	1685	NA	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	1	61	TCGA	LIHC	1	9	9	9	9	ed8c0d53-5db0-4b77-95ec-15971926e313
+TCGA-DD-AADO	2013	NA	453	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	55	TCGA	LIHC	1	9	8	9	8	9f056388-7529-4fd1-af11-c82cc350f51c
+TCGA-BW-A5NO	2010	NA	20	NA	not hispanic or latino	male	stage iiia	mx	nx	t3a	black or african american	no	rx	liver	0	50	TCGA	LIHC	1	8	6	8	6	ee63c44b-91f4-4004-8dea-192eab527036
+TCGA-G3-AAV1	2013	359	NA	NA	not hispanic or latino	male	stage iiic	m0	n0	t4	asian	no	r0	liver	1	51	TCGA	LIHC	1	8	6	8	6	ee6d81bf-0470-4652-aff0-d85f6ab67626
+TCGA-YA-A8S7	2012	412	NA	NA	hispanic or latino	male	stage iiia	mx	n0	t3a	white	no	r0	liver	1	68	TCGA	LIHC	1	8	6	7	6	bb2069d3-e699-4a8a-bb61-b3c28b98a66b
+TCGA-2Y-A9H6	2011	NA	357	NA	not hispanic or latino	female	stage i	mx	nx	t1	white	no	r0	liver	0	68	TCGA	LIHC	1	8	7	8	6	bc3502bc-bbf6-44f2-a1f4-d1567819aefb
+TCGA-CC-A123	2010	NA	219	NA	not hispanic or latino	female	stage iiia	m0	n0	t3	asian	no	rx	liver	0	24	TCGA	LIHC	1	7	6	7	5	e2f6d3aa-b817-4193-a550-8e53265aa336
+TCGA-UB-A7MB	2013	NA	601	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	0	24	TCGA	LIHC	1	8	6	8	6	af1e56af-410c-4cad-a4e8-1c6937f1a350
+TCGA-DD-A4NE	2011	660	NA	NA	hispanic or latino	female	stage iiia	m0	n0	t3a	white	no	r0	liver	1	75	TCGA	LIHC	1	8	6	7	5	bce25281-502e-4599-9679-32dc8462ffb1
+TCGA-FV-A495	2012	NA	1	NA	not hispanic or latino	female	stage ii	m0	nx	t2	white	NA	r0	liver	0	51	TCGA	LIHC	1	9	8	9	7	bd48fa5e-0152-46f0-a4fa-8cf723ff2dcd
+TCGA-DD-AAEG	2012	NA	719	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	59	TCGA	LIHC	1	10	8	9	7	bd627786-31a8-46d9-b3e2-7f489d50f608
+TCGA-RC-A6M5	2012	NA	15	NA	NA	female	stage iva	m0	n1	t1	white	NA	r0	liver	0	20	TCGA	LIHC	1	9	7	8	7	d504ee30-6955-4a7b-9311-55ad3decadd5
+TCGA-WQ-AB4B	2013	NA	395	NA	not hispanic or latino	male	stage ii	m0	nx	t2	white	no	r0	liver	0	62	TCGA	LIHC	1	9	8	9	7	d5471a2b-f14c-44de-9142-5a5fb07b6fc2
+TCGA-DD-AAVX	2008	NA	1718	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	yes	r0	liver	0	38	TCGA	LIHC	1	10	10	10	10	afcb9708-92b3-4727-9c0d-63e7ff22d87b
+TCGA-FV-A23B	2005	1852	NA	NA	not hispanic or latino	female	stage ii	m0	n0	t2	white	no	r0	liver	1	70	TCGA	LIHC	1	8	7	8	7	c95ed407-bcc2-44aa-bc59-bf7549f2d665
+TCGA-DD-AACA	2008	NA	2301	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	65	TCGA	LIHC	1	9	8	9	7	d6486001-240a-455a-980c-e06c25c61fa5
+TCGA-2Y-A9H9	2011	NA	697	NA	not hispanic or latino	male	stage i	mx	n0	t1	white	no	r0	liver	0	70	TCGA	LIHC	1	9	8	9	7	efc3e5e4-0d8e-4bef-a259-29f8ed21684f
+TCGA-G3-AAV3	2013	NA	412	NA	not hispanic or latino	female	stage ii	m0	n0	t2	white	no	r0	liver	0	58	TCGA	LIHC	1	9	8	9	8	efc865fd-7c74-4361-9d7a-eef923dbcd24
+TCGA-CC-5260	2010	87	NA	NA	not hispanic or latino	female	stage iiic	m0	n0	t4	asian	no	rx	liver	1	61	TCGA	LIHC	1	9	7	8	7	ca8afb2c-be3d-41e8-8dbc-19fe7ab6154b
+TCGA-DD-A1EH	2008	NA	1495	NA	not hispanic or latino	male	stage iii	m0	n0	t3	white	no	r0	liver	0	23	TCGA	LIHC	1	8	6	7	5	cab5b264-abab-4bdb-816e-9d2c0ac30629
+TCGA-DD-AAVS	2007	NA	1823	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	56	TCGA	LIHC	1	8	7	8	6	9fc30c21-2c78-4843-a658-fe84a64b8fad
+TCGA-UB-A7ME	2013	NA	486	NA	not hispanic or latino	male	stage i	mx	nx	t1	asian	no	r0	liver	0	51	TCGA	LIHC	1	9	8	8	7	be1240f0-34dc-4205-b152-c26f11d28462
+TCGA-DD-A39Y	2002	171	NA	NA	not hispanic or latino	male	stage i	m0	nx	t1	asian	no	r0	liver	1	67	TCGA	LIHC	1	8	6	8	6	bed1d731-e382-4b80-9604-e6dd68d9c0ab
+TCGA-EP-A3JL	2011	NA	303	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	NA	liver	0	76	TCGA	LIHC	1	9	8	9	8	a196a937-b17d-4d4a-965b-8af0f4f41367
+TCGA-DD-AADY	2013	NA	555	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	55	TCGA	LIHC	1	9	7	8	7	e42e4244-dce8-453a-b5e0-7593a9b5af61
+TCGA-DD-A4NA	2009	NA	1008	NA	not hispanic or latino	female	stage iiic	m0	n1	t2	white	no	r0	liver	0	67	TCGA	LIHC	1	10	8	9	8	bee9d6c8-948f-4b76-97ca-b985064249ef
+TCGA-FV-A3I1	2011	247	NA	NA	not hispanic or latino	female	stage ii	mx	n0	t2	white	no	r0	liver	1	NA	TCGA	LIHC	1	9	7	8	7	bfd20d71-18a5-4f01-8d56-84378ad92359
+TCGA-FV-A2QQ	2011	NA	729	NA	not hispanic or latino	male	stage i	mx	n0	t1	white	no	r0	liver	0	80	TCGA	LIHC	1	9	8	8	7	d680df09-368e-42b5-b540-45c41ed31042
+TCGA-2Y-A9GX	2007	NA	2442	NA	not hispanic or latino	male	stage i	mx	nx	t1	white	no	r1	liver	0	68	TCGA	LIHC	1	8	7	8	7	d6c2c6ce-3483-4fe5-aef6-e40419f728cf
+TCGA-CC-A7IH	2013	NA	365	NA	not hispanic or latino	male	stage iiia	m0	n0	t3	asian	no	r0	liver	0	58	TCGA	LIHC	1	9	7	9	7	e4e0bc11-ad61-4419-857c-44fb5c7877a3
+TCGA-DD-AADA	2011	NA	1233	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	0	66	TCGA	LIHC	1	9	8	9	8	e50edba1-8ec4-47e7-a01e-9f1b2cd75fd7
+TCGA-QA-A7B7	2013	NA	94	NA	not hispanic or latino	male	stage ii	mx	nx	t2	black or african american	no	rx	liver	0	48	TCGA	LIHC	1	10	8	9	8	b0952fd6-62ee-44ef-9a2a-e5262ed4721a
+TCGA-2Y-A9HB	2012	NA	260	NA	hispanic or latino	male	stage i	mx	nx	t1	NA	no	r0	liver	0	66	TCGA	LIHC	1	10	10	10	9	b181b591-269c-4e48-b681-243d28772025
+TCGA-G3-AAUZ	2013	NA	480	NA	hispanic or latino	male	stage i	m0	n0	t1	NA	no	r0	liver	0	48	TCGA	LIHC	1	9	7	8	7	d74ddbe2-5860-40b1-9bd8-99cc50f3392d
+TCGA-DD-AACK	2008	NA	9	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	70	TCGA	LIHC	1	9	7	8	6	d7cd045a-0be2-4b6d-aefd-5d75e57bc6f6
+TCGA-DD-AAEB	2012	NA	478	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	60	TCGA	LIHC	1	7	6	7	5	f0ece8e2-a6b0-4ed9-a613-d2fbb20e51b1
+TCGA-2Y-A9GU	2009	NA	1939	NA	not hispanic or latino	female	stage i	mx	nx	t1	white	no	r0	liver	0	55	TCGA	LIHC	1	8	7	8	6	b27720a2-e240-413c-a0f1-0b1af3621de2
+TCGA-G3-A3CJ	2011	NA	594	NA	not hispanic or latino	male	stage ii	m0	n0	t2	american indian or alaska native	no	r0	liver	0	52	TCGA	LIHC	1	9	7	8	7	cb8f3c76-da86-4a1d-977c-44ab399b342a
+TCGA-ZP-A9D2	2012	765	NA	NA	not hispanic or latino	male	NA	mx	nx	t2	white	no	r0	liver	1	51	TCGA	LIHC	1	8	7	8	6	cbb89556-d783-4e70-8db4-ef53e9a45922
+TCGA-ED-A7XP	2013	NA	400	NA	not hispanic or latino	female	stage ii	m0	n0	t2	asian	no	r0	liver	0	53	TCGA	LIHC	1	9	8	9	7	cca827ca-0066-497d-83dc-477f3b08ea6d
+TCGA-DD-AACZ	2010	171	NA	NA	not hispanic or latino	female	stage i	m0	n0	t1	asian	no	r0	liver	1	63	TCGA	LIHC	1	8	7	7	7	cce2bb32-84cb-4991-9628-1ea408a9b11a
+TCGA-2Y-A9HA	2012	36	NA	NA	not hispanic or latino	male	stage ii	mx	nx	t2	white	no	r0	liver	1	70	TCGA	LIHC	1	8	6	7	6	a25a714e-c142-482b-91c8-4fea763e0254
+TCGA-BC-A112	2009	153	NA	NA	not hispanic or latino	male	NA	mx	nx	t3	white	no	r0	liver	1	80	TCGA	LIHC	1	8	6	8	6	a2c17e87-d8bc-4160-88ae-e3e894d013e4
+TCGA-CC-A7IJ	2013	NA	382	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	56	TCGA	LIHC	1	7	9	7	8	e610a644-0504-445a-bba1-4bae360de4c1
+TCGA-DD-AACI	2008	NA	1618	NA	not hispanic or latino	male	stage ii	m0	n0	t2	asian	no	r0	liver	0	69	TCGA	LIHC	1	9	8	9	8	e6fa354e-ada7-41e0-8c8b-38520a5e6601
+TCGA-DD-AADD	2011	NA	1231	NA	not hispanic or latino	male	stage i	m0	n0	t1	asian	no	r0	liver	0	51	TCGA	LIHC	1	9	7	8	7	b44f664c-444c-4c64-a407-52fd9b55f178
+TCGA-ED-A5KG	2012	NA	854	NA	not hispanic or latino	female	stage ii	m0	n0	t2	asian	no	r0	liver	0	60	TCGA	LIHC	1	9	9	9	9	cebdafee-8ffd-4ee2-8dd1-9225e06623c2
+TCGA-ED-A7PY	2013	NA	390	NA	not hispanic or latino	female	stage ii	m0	nx	t2	asian	no	r0	liver	0	20	TCGA	LIHC	1	7	5	6	5	a396e048-5aa0-4d71-96bd-7f4fdf6934aa
+TCGA-ED-A627	2012	NA	423	NA	not hispanic or latino	male	stage i	m0	nx	t1	white	no	r0	liver	0	74	TCGA	LIHC	1	9	8	9	8	a4af0084-edd4-4dcd-8975-4a59ee5da64c
